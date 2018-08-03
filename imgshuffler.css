@@ -1,0 +1,10 @@
+.changer li {
+    display: inline-block;
+    padding-top: 20px;
+    text-align: center;
+    width: 19%;
+    min-width:126px;
+}
+.changer li img {
+    height: 75px;
+}
